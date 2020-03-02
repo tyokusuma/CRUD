@@ -10,7 +10,7 @@
     <h1>Welcome to Administrator</h1><br>
     Username
     <input type="text" name="nama" id=""><br>
-    Password
+    Masukan Password
     <input type="password" name="password" id=""><br>
     <input type="submit" name="" id="">
     </form>
